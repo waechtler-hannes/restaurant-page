@@ -1,2 +1,1 @@
-This project was build using webpack and its HTML-Components are generated with JavaScript.
-Try it out here: https://waechtler-hannes.github.io/restaurant-page/
+This project was built with Webpack and its HTML components were generated with JavaScript. Try it out here: https://waechtler-hannes.github.io/restaurant-page/
